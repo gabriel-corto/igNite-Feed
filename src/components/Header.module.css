@@ -1,0 +1,19 @@
+
+.header{
+   background: #333;
+   height: 80px;
+
+   background: var(--gray-800);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 1.25rem 0;
+}
+.header img {
+   height: 40px;
+}
+.header strong {
+   font-weight: 900;
+   font-size: 1rem;
+   letter-spacing: .1px;
+}
